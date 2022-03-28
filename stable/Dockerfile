@@ -1,1 +1,1 @@
-FROM jakowenko/double-take:1.7.0
+FROM steppel1/double-take-fxx:3.7.0

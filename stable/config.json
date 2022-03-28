@@ -1,7 +1,7 @@
 {
   "name": "Double Take",
   "version": "3.7.0",
-  "url": "https://github.com/jakowenko/double-take",
+  "url": "https://github.com/steppel/double-take-hassio-addons",
   "panel_icon": "mdi:face-recognition",
   "slug": "double-take",
   "description": "Unified UI and API for processing and training images for facial recognition",
