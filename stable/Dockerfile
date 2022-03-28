@@ -1,1 +1,1 @@
-FROM steppel1/double-take-det:3.7.0
+FROM steppel1/double-take-det:latest
